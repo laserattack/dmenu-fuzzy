@@ -1,6 +1,6 @@
 # About
 
-dmenu + fuzzy search + delete left word using ctrl+backspase and delete right word using ctrl+delete
+dmenu + fuzzy search + delete left word using ctrl+backspace and delete right word using ctrl+delete
 
 # Build
 
